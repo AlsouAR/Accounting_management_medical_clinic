@@ -1,0 +1,9 @@
+{
+    "patient_id": "A123",
+    "name": "Иван Петров",
+    "age": 36,
+    "gender": "м",
+    "medical_history": "Аллергия на пыльцу",
+    "type": "adultpatient",
+    "occupation": "Программист"
+}
